@@ -2,3 +2,4 @@
 *.c  linguist-detectable=true
 *.cpp linguist-detectable=true
 *.h  linguist-detectable=true
+*..dll linguist-detectable=true
